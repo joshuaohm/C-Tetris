@@ -1,0 +1,17 @@
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\AboutWindow.baml
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\ControlsWindow.baml
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\MainWindow.baml
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\AboutWindow.g.cs
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\ControlsWindow.g.cs
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\MainWindow.g.cs
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\App.g.cs
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris_MarkupCompile.cache
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.g.resources
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\Jaydo\Dropbox\CSCD 371\Final\Tetris\Tetris\obj\Release\Tetris.pdb
